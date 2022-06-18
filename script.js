@@ -1,1 +1,1 @@
-<script>let array</script>
+<script>let arra</script>
